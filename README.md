@@ -2,9 +2,13 @@ A CRUD application that allows creating, editing, and deleting students in a dat
 
 This brief application was developed with Java 21 and Spring Boot, using Hibernate and MySQL as the relational database.
 
+DATA BASE
 ![image](https://github.com/user-attachments/assets/764760b0-e4d8-4ba4-b770-3a64fcff1039)
+
 0. Menu
-![image](https://github.com/user-attachments/assets/a01ddc33-3183-47f1-8475-613149964f11)
+
+![image](https://github.com/user-attachments/assets/6b3064bf-a5e6-4ab1-99ca-c5ab3891f310)
+
 1. List students
 ![image](https://github.com/user-attachments/assets/4d3c5501-cc3f-452a-bb67-aadac6b455c8)
 2. Search for student
